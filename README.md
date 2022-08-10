@@ -116,3 +116,8 @@
 **메인 페이지 및 이벤트 게시판 디자인**
 - 이벤트 배너 슬라이드, 신상품/평점/리뷰좋아요 등의 기준에 따른 상품을 슬라이드로 구현
 ![initial](https://i.imgur.com/1kiwpCQ.png)
+
+**이벤트 게시판 디자인 및 기능**
+- 이벤트 게시판 리스트페이징 처리
+- 이벤트 게시판 CRUD 
+![initial](https://i.imgur.com/fXlIIHo.png) 
