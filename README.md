@@ -121,3 +121,11 @@
 - 이벤트 게시판 리스트페이징 처리
 - 이벤트 게시판 CRUD 
 ![initial](https://i.imgur.com/fXlIIHo.png) 
+
+**구매 및 결제 기능**
+- 상품페이지에서 바로구매 기능
+- 장바구니페이지에서 선택한 장바구니 품목 구매기능
+- iamport API를 통한 결제기능
+- 결제 완료시 주문완료 페이지로 이동하며 해당 결제 정보 DB 저장 및 결제한 장바구니 품목 삭제처리(결제한 품목 장바구니에서 비우기)
+![initial](https://i.imgur.com/o8cbtzI.png)
+![initial](https://i.imgur.com/jGiNF12.png)
