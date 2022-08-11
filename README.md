@@ -149,7 +149,7 @@
 **이벤트 게시판 디자인 및 기능**
 - 이벤트 게시판 리스트페이징 처리
 - 이벤트 게시판 CRUD 
-![initial](https://i.imgur.com/fXlIIHo.png) 
+![initial](https://i.imgur.com/Ge7b3p5.png) 
 
 **구매 및 결제 기능**
 - 상품페이지에서 바로구매 기능
