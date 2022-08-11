@@ -164,11 +164,14 @@
 ![initial](https://i.imgur.com/Ge7b3p5.png) 
 
 **구매 및 결제 기능**
+
 - 상품페이지에서 바로구매 기능
     - 상품페이지에서 수량을 선택 후 구매하기 버튼을 click하면 장바구니를 거치지 않고,  해당 정보를 가지고 주문서 페이지로 이동 
 ![initial](https://i.imgur.com/i57WN5g.png)
+
 - 장바구니페이지에서 선택한 장바구니 품목 구매기능
     - 장바구니 페이지에서 결제할 품목을 선택후 구매하기 버튼을  click하면 해당 정보들을 가지고 주문서 페이지로 이동
+![initial](https://i.imgur.com/PYTK1ax.png)
 
 - iamport API를 통한 결제기능
     - 주문서 페이지에서 결제금액(숫자로 출력) 결제하기 버튼 click시 iamport를 통한 결제 진행
