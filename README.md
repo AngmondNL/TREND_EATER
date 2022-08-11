@@ -186,6 +186,9 @@
  
  
  
-    - 결제 완료시 alert창 출력  주문완료 페이지로 이동하며 해당 결제 정보 DB 저장 및 결제한 장바구니 품목 삭제처리(결제한 품목 장바구니에서 비우기)
+    - 결제 완료시 alert창 출력  
 ![initial](https://i.imgur.com/6EbnFIY.png)
-![initial](https://i.imgur.com/jGiNF12.png)
+
+
+    - 주문완료(영수증) 페이지로 이동하며 해당 결제 정보 DB 저장 및 결제한 장바구니 품목 삭제처리(결제한 품목 장바구니에서 비우기
+![initial](https://i.imgur.com/4Xr873S.png)
