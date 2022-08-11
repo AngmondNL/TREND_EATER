@@ -176,8 +176,10 @@
 - 주문서 페이지에서 iamport API를 통한 결제기능
     - 주문서 페이지에서는 주문 정보 (상품명, 개수, 개별가격 과 총 결제금액 등)와 주문자 정보가 출력 
 ![initial](https://i.imgur.com/o6QneQ3.png)  
+
     - 주문서 페이지에서 결제금액(숫자로 출력) 결제하기 버튼 click시 iamport를 통한 결제 진행
 ![initial](https://i.imgur.com/t3Pg4Nu.gif)
+ 
     - 결제 완료시 주문완료 페이지로 이동하며 해당 결제 정보 DB 저장 및 결제한 장바구니 품목 삭제처리(결제한 품목 장바구니에서 비우기)
 ![initial](https://i.imgur.com/o8cbtzI.png)
 ![initial](https://i.imgur.com/jGiNF12.png)
